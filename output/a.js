@@ -1,0 +1,1 @@
+function fn(){alert(3423412)}var a=12455568;
